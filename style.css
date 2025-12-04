@@ -7,6 +7,13 @@ img{
     position: absolute;
     left: 90px;
 }
+.subdiv{
+  width: 200px;
+  height: 200px;
+  background-color: darksalmon;
+  position: absolute;
+ left: 250px;
+}
 .banner {
 position: absolute;
  left: 250px;
